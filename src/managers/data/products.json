@@ -1,0 +1,34 @@
+[
+  {
+    "id": "b0b12f07-35c4-4d36-b283-7ffc9cd69ab0",
+    "title": "Producto 2",
+    "description": "Este es un producto nashe",
+    "price": 50,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/bus-vehicle-transport-school-128.png",
+    "code": "ABC128",
+    "stock": 3,
+    "category": "amungus",
+    "status": true
+  },
+  {
+    "id": "cb8b1081-8ffd-4444-a6d0-aa9447400b3c",
+    "title": "Producto 4",
+    "description": "Este es un producto nashe",
+    "price": 500,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/bus-vehicle-transport-school-128.png",
+    "code": "ABC128",
+    "stock": 40,
+    "category": "momo",
+    "status": true
+  },
+  {
+    "id": "976c9bbc-e427-4bc5-a031-db92f671e05f",
+    "title": "Producto 5",
+    "description": "Este es un producto nashe",
+    "price": 500,
+    "code": "ABC128",
+    "stock": 40,
+    "category": "momo",
+    "status": true
+  }
+]
